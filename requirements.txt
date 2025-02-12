@@ -1,0 +1,6 @@
+opencv-python
+ultralytics
+cvzone
+numpy
+pyttsx3
+SpeechRecognition
